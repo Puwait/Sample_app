@@ -6,6 +6,14 @@ $white: #777;
 $gray-darker: #222;
 $gray: #555;
 /* universal */
+
+@mixin box_sizing {
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+
+}
+
 body {
     padding-top: 60px;
   background :#333;
@@ -122,6 +130,13 @@ footer {
   }
   }
   }
-  
+  /*Miscellaneous*/
+  .debug-dump{ 
+    clear: both;
+    float: left;
+    width: 100%;
+    margin-top: 45px;
+    @include box-sizing;
+  }
 
 
