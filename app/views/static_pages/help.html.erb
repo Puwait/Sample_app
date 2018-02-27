@@ -1,2 +1,45 @@
-<h1>StaticPages#help</h1>
-<p>Find me in app/views/static_pages/help.html.erb</p>
+
+<% provide(:title, "Help") %>
+
+
+<h1>Help</h1>
+<p>
+  This is the home page for the
+</p>  <a href="http://www.railstutorial.org/">Ruby on Rails Tutorial</a>
+  sample application.
+
+<html>
+<head>
+<title>CSS Grids</title>
+<style>
+
+.wrapper{
+  display:grid;
+  grid-template-columns:70% 30%;
+  grid-column-gap:1em;
+  grid-row-gap:1em;
+}
+.wrapper > div{
+  background:#eee;
+  padding:1em;
+}
+</style>
+</head>
+<body>
+<div class="wrapper">
+<div>
+This is the help page for the sample_app. If you need help, just go ahead and ask coz it wont be such a problem.
+</div>
+
+<div>
+And also you can contact our rsecue centers. I know this is crazy but just get used to it.
+</div>
+
+ <div>
+ Dont get scared when you cant do anything.Just rise up above your fears and solve the errors like am planning to do.
+ Ive had enough of errors though.
+ </div>
+
+</div>
+</body>
+</html>

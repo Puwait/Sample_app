@@ -1,2 +1,86 @@
-<h1>StaticPages#home</h1>
-<p>Find me in app/views/static_pages/home.html.erb</p>
+<% provide(:title, "Home") %>
+        <title>Sample App Solutions</title>
+          <div class="center jumbotron">
+              <h1>Welcome to the Sample App</h1>
+
+       <h2>
+      This is the home page for the
+      <a href="http://www.railstutorial.org/">Ruby on Rails Tutorial</a>
+      sample application.
+      </h2>
+
+
+    <%= link_to "Sign up now!",signup_path, class: "btn btn-lg btn-primary" %>
+</div>
+
+   <%= link_to image_tag("rails.png", alt: "Rails logo"), 'http://rubyonrails.org/' %>
+   <%= image_tag("kitten.jpg")%>
+  
+
+    <header id="showcase" class="grid">
+    <div class=bg-image></div> 
+  <a href="#section-b" class="btn">Read More</a>
+    </header>
+
+
+<!--main area-->
+    <main id="main">
+
+    <!-- section-a-->
+    <section id="section-a" class="grid">
+    <div class="content-wrap">
+    <p>This sample app issues web development programs. If you want front end or backend. It's all here.I want this to be simple.</p>
+    </div>
+</section>
+
+<!--section-b-->
+<section id="section-b" class="grid">
+  <ul>
+    <li>
+      <div class="card">
+<p>Talk about your first web development experience.Mine was terrible, I must say, but i came to get used to it.</p>
+<img src="https://bit.ly/fcc-relaxing-cat" alt="">
+      <div class="card-content">
+<h3 class="card-title">Web Development</h3>
+<p>Get used to these things coz time is running out and we are running out of time. This day is quite terrible.</p>
+
+     </div>
+    </div>
+</li>
+
+<li>
+   <div class="card">
+<img src="https://www.pexels.com/photo/light-nature-sun-sunrise-87215/" alt="">
+  <div class="card-content">
+<h3 class="card-title">Graphic design</h3>
+<p>Get used to these things coz time is running out and we are running out of time. This day is quite terrible.</p>
+
+   </div>
+   </div>
+</li>
+</ul>
+  </section>
+
+  <!--section-c-->
+
+<section id="section-c" class="grid">
+<div class="card-content">
+<h3 class="card-title">We handle your digital needs</h3>
+<p>Save yourself the energy by being normal like us</p>
+</div>
+</section>
+
+<section id="sectiion-d" class="grid">
+<div class="box">
+<h3 class="card-title">Contact us</h3>
+<p>contact us on facebook, tweeter</p>
+</div>
+<div class="box">
+<h3 class="card-title">About us</h3>
+<p>We love you</p>
+</div>
+</section>
+
+ </main>
+ 
+

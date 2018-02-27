@@ -1,0 +1,45 @@
+<% provide(:title, "About") %>
+
+<h1>About</h1>
+<p>
+  This is the home page for the
+  <a href="http://www.railstutorial.org/">About|Ruby on Rails Tutorial Sample App</a>
+  sample application.
+</p>
+<div class="container">
+  <div class="grid-services">Services</div>
+  <div class="grid-org">Organizations</div>
+  <div class="grid content">Main Content</div>
+  <div class="grid extra">Extra Content</div>
+  <div class="grid connections">Connections</div>
+
+
+<container {
+  	display: grid;
+  	grid-template-columns: 1fr 3fr;
+        grid-column-gap: 10px;
+        grid-row-gap: 15px;
+}
+
+.grid-services {
+  background-color: #444;
+  color: #fff;
+  padding: 25px;
+  font-size: 3rem;
+} 
+
+.Services {
+  grid-column-start: 1;
+  grid-column-end: 3;
+  grid-row-start: 1;
+  grid-row-end: 2;
+}
+.Organizations {
+  grid-column-start: 1;
+  grid-column-end: 2;
+  grid-row-start: 2;
+  grid-row-end: 4;
+  background: #a0c263;
+}
+%>
+</div>

@@ -1,0 +1,724 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="theme-color" content="#444444">
+<title>Free stock photo of business, coder, coding</title>
+<meta name="description" content="One of many great free stock photos from Pexels. This photo is about wireless, work, working." />
+<meta name="keywords" content="business, coder, coding, computer, contemporary, desk, hands, indoors, internet, laptop, leisure, macbook, office, person, programmer, programming, screen, technology, typing, watch, wireless, work, working, Free Stock Photo" />
+<meta property="og:image" content="https://images.pexels.com/photos/265110/pexels-photo-265110.jpeg?w=1200&amp;h=627&amp;fit=crop&amp;auto=compress&amp;cs=tinysrgb" />
+<link href="https://www.pexels.com/photo/business-coder-coding-computer-265110/" rel="canonical" />
+<link rel="alternate" hreflang="en" href="https://www.pexels.com/photo/business-coder-coding-computer-265110/" />
+<link rel="alternate" hreflang="de" href="https://www.pexels.com/de/foto/arbeit-arbeiten-bildschirm-buro-265110/" />
+<link href="https://www.pexels.com/rss/" rel="alternate" title="RSS" type="application/rss+xml" />
+<link rel="stylesheet" media="all" href="/assets/application-98cf8c1bec716c4fb72b507ed661e1b07821aa061e6086f05f746e47cfc1a045.css" />
+<script src="/assets/app-sync-4f57fd219aaa5c90066bbe6426125cc8dbe0533e55862f6c223a98097f2ad689.js"></script>
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="It/LOi7dSGgxvrQ73xqj6v60t1V1ejxgoKUgKgjXAA9n7sFUbdP/mpyBX9XE42/h1OO05efs4MTx+0LleHyFLg==" />
+<link rel="search" type="application/opensearchdescription+xml" title="Pexels" href="/opensearch.xml" />
+<link href="/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+<link rel="icon" sizes="192x192" href="/assets/icons/pexels-icon-c89972421096df12c2b564575d6df896b612ca415b706033d2e44562f97343bc.png">
+<link rel="apple-touch-icon" href="/assets/icons/apple-touch-icon-e1336691483e7b52fb74222ba02f37bd256644ba5bc6ca81baecfaf1dc62a86b.png">
+<meta name="application-name" content="Pexels" />
+<script>
+//<![CDATA[
+i18n_global = {"collection_create":"Create Collection","collection_save":"Save to Collection","collection_title":"Title","collection_view":"View Your Collections →"}
+//]]>
+</script>
+</head>
+<body class="">
+<div class="page-wrap">
+<header class="navbar">
+<h2 class="navbar__title">
+<a class="navbar__title__anchor" title="Free Stock Photos" data-track-action="navbar" data-track-label="logo" href="/">
+<span class="sr-only">Pexels</span>
+</a> </h2>
+<div class="navbar__mobile-ctrl visible-md">
+<button class="navbar__toggle navbar__toggle--search" type="button" data-track-action="navbar" data-track-label="mobile-search">
+<i class="icon-search"></i>
+</button>
+<button class="navbar__toggle navbar__toggle--menu" type="button" data-track-action="navbar" data-track-label="mobile-menu">
+<span class="sr-only">Toggle navigation</span>
+<span class="navbar__toggle__bar"></span>
+<span class="navbar__toggle__bar"></span>
+<span class="navbar__toggle__bar"></span>
+</button>
+</div>
+<div class="navbar__md-nav navbar__md-nav--search ">
+<form class="navbar__search pull-left" role="search" method="get" action="/">
+<input required="required" placeholder="Search for free photos" name="s" value="" type="search" autocapitalize="none" />
+<button class="navbar__search__icon" title="Search" data-track-action="navbar" data-track-label="searchicon">
+<i class="icon-search"></i>
+</button>
+</form>
+</div>
+<div class="navbar__md-nav navbar__md-nav--menu">
+<ul class="navbar__list pull-right">
+<li class="navbar__dropdown">
+<a href="/discover/" data-dropdown-selector="#browse-dropdown" data-is-clickable="true" class="js-dropdown" data-track-action="navbar" data-track-label="browse">
+Browse
+<svg width="8" class="navbar__icon-caret" height="5" viewBox="0 0 8 5" xmlns="http://www.w3.org/2000/svg"><path d="M6.752 1.514C7.472.678 7.158 0 6.057 0H1.052C-.05 0-.332.654.426 1.46L2.38 3.54c.758.806 1.952.786 2.674-.054l1.698-1.972z" fill="#FFFFFF" fill-rule="evenodd"></path></svg>
+</a>
+<div class="btn__dropdown" id="browse-dropdown">
+<ul>
+<li>
+<a href="/discover/" title="Beautiful pictures" data-track-action="navbar" data-track-label="discover">Discover Photos</a>
+</li>
+<li>
+<a href="/popular-photos/" data-track-action="navbar" data-track-label="popular">Popular Photos</a>
+</li>
+<li>
+<a href="/popular-searches/" data-track-action="navbar" data-track-label="popular-searches">Popular Searches</a>
+</li>
+<li>
+<a href="/leaderboard/" data-track-action="navbar" data-track-label="leaderboard">Leaderboard</a>
+</li>
+<li>
+<a href="/challenges/" data-track-action="navbar" data-track-label="challenge">Photo Challenge</a>
+</li>
+<li>
+<a href="/search/color:%20violet/" data-track-action="navbar" data-track-label="colors">Photos by Color</a>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<a href="/photo-license/" title="Stock photo license" data-track-action="navbar" data-track-label="license">License</a>
+</li>
+<li class="hidden-xl">
+<a href="/pro/" data-track-action="navbar" data-track-label="tools">Tools</a>
+</li>
+<li class="show-if-signed-in-inline hide-if-signed-in@md">
+<a href="/me/" rel="nofollow" data-track-action="navbar" data-track-label="avatar">
+<img class="navbar__list__img js-avatar" height="30" width="30" />
+<span class="navbar__list__name js-user-name"></span>
+</a>
+</li>
+<li>
+<a href="/submit-photos/" class="hide-if-signed-in btn-primary navbar__cta" data-track-action="navbar" data-track-label="submit">
+Contribute Photos
+</a>
+<a href="/upload/" class="show-if-signed-in btn-primary navbar__cta" data-track-action="navbar" data-track-label="submit" rel="nofollow">
+Contribute Photos
+</a>
+</li>
+<li class="navbar__dropdown">
+<a href="#profile-dropdown" class="js-dropdown" data-track-action="navbar" data-track-label="more">
+<div class="">
+<span class="icon-dot"></span>
+<span class="icon-dot"></span>
+<span class="icon-dot"></span>
+</div>
+</a>
+<div class="btn__dropdown" id="profile-dropdown">
+<ul>
+<li class="hide-if-signed-in">
+<a href="/login/" rel="nofollow" data-track-action="navbar" data-track-label="login">Login</a>
+</li>
+<li class="hide-if-signed-in">
+<a href="/join/" rel="nofollow" data-track-action="navbar" data-track-label="signup">Sign Up</a>
+</li>
+<li class="show-if-signed-in">
+<a href="/me/" rel="nofollow" data-track-action="navbar" data-track-label="profile">Your Profile</a>
+</li>
+<li class="show-if-signed-in">
+<a href="/me/collections/" rel="nofollow" data-track-action="navbar" data-track-label="collections">Your Collections</a>
+</li>
+<li class="show-if-signed-in">
+<a href="/edit-profile/" rel="nofollow" data-track-action="navbar" data-track-label="setting">Settings</a>
+</li>
+<li>
+<a href="#" rel="nofollow" class="js-show-switch-locale" data-track-action="navbar" data-track-label="switch-locale">Change Language</a>
+</li>
+<li class="show-if-signed-in">
+<a href="/logout/" rel="nofollow" data-track-action="navbar" data-track-label="logout" class="js-logout-btn">Logout</a>
+</li>
+<li class="show-if-signed-in">
+<hr>
+</li>
+<li>
+<a href="/pro/" class="visible-xl" data-track-action="navbar" data-track-label="apps">Apps &amp; PS Plugin</a>
+</li>
+<li>
+<a href="https://videos.pexels.com/" title="Free stock videos – Pexels Videos" target="_blank" data-track-action="navbar" data-track-label="videos">Free Videos</a>
+</li>
+<li>
+<a href="/about/" data-track-action="navbar" data-track-label="about" rel="nofollow">About Us</a>
+</li>
+<li>
+<a href="/faq/" data-track-action="navbar" data-track-label="faq" rel="nofollow">FAQ</a>
+</li>
+<li>
+<a href="/imprint/" rel="nofollow" data-track-action="navbar" data-track-label="imprint">Imprint &amp; Terms</a>
+</li>
+</ul>
+<ul class="navbar__horizontal-list">
+<li class="l-lg-12"><hr></li>
+<li class="l-lg-3">
+<a href="https://www.facebook.com/pexels" target="_blank" rel="nofollow" title="Facebook" data-track-action="navbar" data-track-label="facebook"><i class="icon-facebook"></i></a>
+</li>
+<li class="l-lg-3">
+<a href="https://twitter.com/PexelsPhotos" target="_blank" rel="nofollow" title="Twitter" data-track-action="navbar" data-track-label="twitter"><i class="icon-twitter"></i></a>
+</li>
+<li class="l-lg-3">
+<a href="https://instagram.com/pexelsphotos/" target="_blank" rel="nofollow" title="Instagram" data-track-action="navbar" data-track-label="instagram"><i class="icon-instagram"></i></a>
+</li>
+<li class="l-lg-3">
+<a href="https://www.pinterest.com/pexels" target="_blank" rel="nofollow" title="Pinterest" data-track-action="navbar" data-track-label="pinterest"><i class="icon-pinterest"></i></a>
+</li>
+</ul>
+</div>
+</li>
+</ul>
+</div>
+</header>
+<div class="navbar-overlay"></div>
+<div itemscope itemtype="http://schema.org/Photograph">
+<meta itemprop="license" content="http://creativecommons.org/licenses/publicdomain/">
+<section class="image-section">
+<div class="image-section__content">
+<div class="photo-modal js-insert-featured-badge">
+<div class="photo-labels image-section__photo-wrap">
+<a href="/search/laptop/" class="photo-labels__label" style="top: 2.21%; left: 9.77997%;" data-track-action="photo-label" data-track-label="laptop">
+<i class="object-icon object-icon--laptop"></i>
+laptop
+</a>
+<div class="image-section__photo-wrap-width">
+<a class="js-download" href="https://static.pexels.com/photos/265110/pexels-photo-265110.jpeg" data-id="265110" target="_blank" download>
+<picture class="image-section__picture">
+<source srcset="https://images.pexels.com/photos/265110/pexels-photo-265110.jpeg?w=1260&amp;h=750&amp;auto=compress&amp;cs=tinysrgb 1x, https://images.pexels.com/photos/265110/pexels-photo-265110.jpeg?w=1260&amp;h=750&amp;dpr=2&amp;auto=compress&amp;cs=tinysrgb 2x" media="(min-width: 1281px) and (min-height: 681px)">
+<source srcset="https://images.pexels.com/photos/265110/pexels-photo-265110.jpeg?w=940&amp;h=650&amp;auto=compress&amp;cs=tinysrgb 1x, https://images.pexels.com/photos/265110/pexels-photo-265110.jpeg?w=940&amp;h=650&amp;dpr=2&amp;auto=compress&amp;cs=tinysrgb 2x">
+<img class="image-section__image" src="https://images.pexels.com/photos/265110/pexels-photo-265110.jpeg?w=940&amp;h=650&amp;auto=compress&amp;cs=tinysrgb" srcset="https://images.pexels.com/photos/265110/pexels-photo-265110.jpeg?w=940&amp;h=650&amp;auto=compress&amp;cs=tinysrgb 1x, https://images.pexels.com/photos/265110/pexels-photo-265110.jpeg?w=940&amp;h=650&amp;dpr=2&amp;auto=compress&amp;cs=tinysrgb 2x" alt="business, coder, coding" data-pin-media="https://images.pexels.com/photos/265110/pexels-photo-265110.jpeg?w=800&amp;h=1200&amp;fit=crop&amp;auto=compress&amp;cs=tinysrgb" style="background: rgb(178, 165, 144)">
+</picture>
+</a>
+</div>
+</div>
+<div class="photo-modal__content photo-modal__content--hidden">
+<a class="photo-modal__close">+</a>
+<p class="partner-box__partner partner-box__partner--left">Ad</p>
+<div>
+<h3 class="photo-modal__title">Want more photos than available on Pexels?</h3>
+<br>
+<a href="https://videoblocks.go2cloud.org/aff_c?offer_id=24&aff_id=1020&url_id=36&source=pexels.com&aff_sub=postdownload&aff_sub2=htmldisplay&aff_sub3=gslogo&aff_sub4=learnmore&aff_sub5=wantmorephotos" target="_blank" rel="nofollow noopener" data-track-action="partner" data-track-label="graphicstock-post-download"><img width="248" height="56" src="/assets/partners/storyblocks-white-728c15b01735ae5873b57ea5d5d45b95ffee6f640bf253b2cf1f397f5e52700f.svg" alt="Storyblocks white" /></a>
+<h4 class="partner-box__subtitle">Get a free trial to access over 400,000 fully licensed images on Storyblocks.</h4>
+<br>
+<a href="https://videoblocks.go2cloud.org/aff_c?offer_id=24&aff_id=1020&url_id=36&source=pexels.com&aff_sub=postdownload&aff_sub2=htmldisplay&aff_sub3=gslogo&aff_sub4=learnmore&aff_sub5=wantmorephotos" target="_blank" rel="nofollow noopener" data-track-action="partner" data-track-label="graphicstock-post-download" class="btn-primary btn--lg">Learn More →</a>
+</div>
+</div>
+</div>
+</div>
+<div class="image-section__sidebar">
+<div class="carbon-ad box">
+<script async type="text/javascript" src="//cdn.carbonads.com/carbon.js?zoneid=1696&serve=CKYDE2JL&placement=pexels" id="_carbonads_js"></script>
+</div>
+<div class="box box--no-margin-bottom">
+<div class="btn-primary btn--lg btn--splitted">
+<a href="https://static.pexels.com/photos/265110/pexels-photo-265110.jpeg" data-id="265110" target="_blank" class="btn__primary js-download" download>
+<svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18"><g fill="none"><g fill="#FFF"><path d="M9.8 10.2L9.8 1C9.8 0.4 9.4 0 8.8 0 8.2 0 7.8 0.4 7.8 1L7.8 10.3 4.6 7.1C4.2 6.7 3.6 6.7 3.2 7.1 2.8 7.5 2.8 8.1 3.2 8.5L8 13.3C8.2 13.6 8.5 13.7 8.8 13.6 9 13.7 9.3 13.6 9.5 13.3L14.4 8.5C14.8 8.1 14.8 7.5 14.4 7.1 14 6.7 13.3 6.7 13 7.1L9.8 10.2ZM0 16.5C0 16 0.4 15.5 1 15.5L17 15.5C17.6 15.5 18 15.9 18 16.5 18 17.1 17.6 17.5 17 17.5L1 17.5C0.4 17.5 0 17.1 0 16.5Z"></path></g></g></svg>
+&nbsp;
+Free Download
+</a><button href="#download-size" class="btn__secondary js-dropdown js-download-size-btn">
+<svg xmlns="http://www.w3.org/2000/svg" width="8" height="5" viewBox="0 0 8 5"><path d="M6.752 1.514C7.472.678 7.158 0 6.057 0H1.052C-.05 0-.332.654.426 1.46L2.38 3.54c.758.806 1.952.786 2.674-.054l1.698-1.972z" fill="#FFFFFF" fill-rule="evenodd"></path></svg>
+</button>
+<form class="btn__dropdown custom-size" id="download-size">
+<h3 class="custom-size__title">Download size</h3>
+<ul class="select-list">
+<li class="select-list__item select-list--active">
+<input type="radio" name="download-size" checked value="3950x3034" data-name="original" data-alt-url="https://static.pexels.com/photos/265110/pexels-photo-265110.jpeg">
+Original (3950 x 3034)
+</li>
+<li class="select-list__item">
+<input type="radio" name="download-size" value="1920x1474" data-name="large">
+Large (1920 x 1474)
+</li>
+<li class="select-list__item">
+<input type="radio" name="download-size" value="1280x983" data-name="medium">
+Medium (1280 x 983)
+</li>
+<li class="select-list__item">
+<input type="radio" name="download-size" value="640x491" data-name="small">
+Small (640 x 491)
+</li>
+<li class="select-list__item">
+<input type="radio" name="download-size" id="custom-size__value">
+Custom size
+<div class="custom-size__input">
+<input class="input input--small custom-size__width" placeholder="width" type="text" pattern="\d+" data-aspect-ratio="0.7681012658227848">
+x
+<input class="input input--small custom-size__height" placeholder="height" type="text" pattern="\d+" data-aspect-ratio="1.3019116677653264">
+</div>
+</li>
+</ul>
+<button class="btn btn-primary custom-size__submit" data-url="https://images.pexels.com/photos/265110/pexels-photo-265110.jpeg" data-id="265110">Download</button>
+</form>
+</div>
+</div>
+<div class="box image-section__actions">
+<button class="btn-quiet js-like btn-like js-like-265110 btn-like--large" data-photo-id="265110">
+<svg viewBox="0 0 100 100" class="svg-icon icon-heart"><use xlink:href="#iconHeart"></use></svg>
+</button>
+<button class="btn-quiet js-collect js-collect-265110 btn-like btn-like--collect btn-like--large" data-photo-id="265110">
+<svg viewBox="0 0 16 16" class="svg-icon icon-plus"><use xlink:href="#iconCirclePlus"></use></svg>
+<span>Collect</span>
+</button>
+<a class="btn-quiet" href="https://get.pexels.com/become-a-pexels-patron/" target="_blank" rel="nofollow" data-tooltip="Support Photographers" data-track-action="show" data-track-label="patron">
+<svg xmlns="http://www.w3.org/2000/svg" class="svg-icon svg-icon--small svg-icon" width="24" height="24" viewBox="0 0 24 24"><path d="M22 9.761c0 .536-.065 1.084-.169 1.627-.847 4.419-3.746 5.946-7.449 5.946h-.572c-.453 0-.838.334-.908.789l-.803 5.09c-.071.453-.456.787-.908.787h-2.736c-.39 0-.688-.348-.628-.732l1.386-8.88.062-.056h2.155c5.235 0 8.509-2.618 9.473-7.568.812.814 1.097 1.876 1.097 2.997zm-14.216 4.252c.116-.826.459-1.177 1.385-1.179l2.26-.002c4.574 0 7.198-2.09 8.023-6.39.8-4.134-2.102-6.442-6.031-6.442h-7.344c-.517 0-.958.382-1.038.901-2.304 14.835-2.97 18.607-3.038 19.758-.021.362.269.672.635.672h3.989l1.159-7.318z"></path></svg>
+<span>Donate</span>
+</a>
+</div>
+<div class="mini-profile box">
+<a href="/u/pixabay/" class="pull-left">
+<img height="50" width="50" class="mini-profile__img" alt="Pixabay" src="https://images.pexels.com/users/avatars/2659/pixabay-617.png?w=200&amp;h=200&amp;fit=crop&amp;crop=faces" />
+</a>
+<div>
+<h3 class="mini-profile__name"><a href="/u/pixabay/">Pixabay</a></h3>
+<span class="mini-profile__link">
+Source: <a target="_blank" rel="nofollow noopener" data-track-action="show" data-track-label="source" href="https://pixabay.com/en/laptop-macbook-computer-technology-926775/">pixabay.com</a>
+</span>
+</div>
+</div>
+<div class="js-insert-details" data-details-path="/photo/business-coder-coding-computer-265110/details/"></div>
+<div class="box">
+<h2 class="box__title">CC0 License</h2>
+<p class="image-section__bullet-point">✓ Free for personal and commercial use</p>
+<p class="image-section__bullet-point">✓ No attribution required</p>
+<a data-track-action="show" data-track-label="more-license" href="/photo-license/">Learn more about the license »</a>
+</div>
+<div class="box box--no-margin-bottom hidden-md js-pexels-promo">
+<h3 class="box__title">Follow Pexels</h3>
+<a href="https://www.instagram.com/pexelsphotos/" target="_blank" rel="nofollow" class="image-section__follow-link" data-track-action="show" data-track-label="instagram">
+<img height="18" width="18" src="/assets/social-icons/instagram-422a6ad0c8115652a19c58285c007221c5f391ec48e25150dc50df5072cc3516.jpg" alt="Instagram" />
+<span>Instagram</span>
+</a>
+</div>
+</div>
+</section>
+<section class="photo-details">
+<div>
+<div class="js-insert-add-details photo-add-details"></div>
+<div class="box">
+<h3 class="box__title">Similar Photos</h3>
+<div class="clearfix photos similar-photos">
+<article class="photo-item">
+<a class="js-photo-link" title="" data-track-action="show" data-track-label="similar-photo" href="/photo/coffee-writing-computer-blogging-34600/">
+<img width="300" height="200" style="background:rgb(67,74,91)" class="photo-item__img" alt="Free stock photo of macbook pro, computer, coding, programming" data-big-src="https://images.pexels.com/photos/34600/pexels-photo.jpg?w=1260&amp;h=750&amp;auto=compress&amp;cs=tinysrgb" data-large-src="https://images.pexels.com/photos/34600/pexels-photo.jpg?w=940&amp;h=650&amp;auto=compress&amp;cs=tinysrgb" data-pin-media="https://images.pexels.com/photos/34600/pexels-photo.jpg?w=800&amp;h=1200&amp;fit=crop&amp;auto=compress&amp;cs=tinysrgb" src="https://images.pexels.com/photos/34600/pexels-photo.jpg?h=350&amp;auto=compress&amp;cs=tinysrgb" />
+</a> <button class="js-like js-like-34600 btn-like btn-like--small photo-item__info" data-photo-id="34600">
+<svg viewBox="0 0 100 100" class="icon-heart"><use xlink:href="#iconHeart"></use></svg>
+</button>
+<button class="js-collect js-collect-34600 btn-like btn-like--small btn-like--collect photo-item__info" data-photo-id="34600">
+<svg viewBox="0 0 30 30" class="icon-plus"><use xlink:href="#iconPlus"></use></svg>
+</button>
+</article>
+<article class="photo-item">
+<a class="js-photo-link" data-track-action="show" data-track-label="similar-photo" href="/photo/laptop-macbook-pro-technology-computer-136320/">
+<img width="355" height="200" style="background:rgb(85,77,68)" class="photo-item__img" alt="Free stock photo of laptop, macbook pro, technology, computer" data-big-src="https://images.pexels.com/photos/136320/pexels-photo-136320.jpeg?w=1260&amp;h=750&amp;auto=compress&amp;cs=tinysrgb" data-large-src="https://images.pexels.com/photos/136320/pexels-photo-136320.jpeg?w=940&amp;h=650&amp;auto=compress&amp;cs=tinysrgb" data-pin-media="https://images.pexels.com/photos/136320/pexels-photo-136320.jpeg?w=800&amp;h=1200&amp;fit=crop&amp;auto=compress&amp;cs=tinysrgb" src="https://images.pexels.com/photos/136320/pexels-photo-136320.jpeg?h=350&amp;auto=compress&amp;cs=tinysrgb" />
+</a> <button class="js-like js-like-136320 btn-like btn-like--small photo-item__info" data-photo-id="136320">
+<svg viewBox="0 0 100 100" class="icon-heart"><use xlink:href="#iconHeart"></use></svg>
+</button>
+<button class="js-collect js-collect-136320 btn-like btn-like--small btn-like--collect photo-item__info" data-photo-id="136320">
+<svg viewBox="0 0 30 30" class="icon-plus"><use xlink:href="#iconPlus"></use></svg>
+</button>
+</article>
+<article class="photo-item">
+<a class="js-photo-link" title="Computer Screen Turned on" data-track-action="show" data-track-label="similar-photo" href="/photo/computer-screen-turned-on-159299/">
+<img width="300" height="200" style="background:rgb(54,60,61)" class="photo-item__img" alt="Computer Screen Turned on" data-big-src="https://images.pexels.com/photos/159299/graphic-design-studio-tracfone-programming-html-159299.jpeg?w=1260&amp;h=750&amp;auto=compress&amp;cs=tinysrgb" data-large-src="https://images.pexels.com/photos/159299/graphic-design-studio-tracfone-programming-html-159299.jpeg?w=940&amp;h=650&amp;auto=compress&amp;cs=tinysrgb" data-pin-media="https://images.pexels.com/photos/159299/graphic-design-studio-tracfone-programming-html-159299.jpeg?w=800&amp;h=1200&amp;fit=crop&amp;auto=compress&amp;cs=tinysrgb" src="https://images.pexels.com/photos/159299/graphic-design-studio-tracfone-programming-html-159299.jpeg?h=350&amp;auto=compress&amp;cs=tinysrgb" />
+</a> <button class="js-like js-like-159299 btn-like btn-like--small photo-item__info" data-photo-id="159299">
+<svg viewBox="0 0 100 100" class="icon-heart"><use xlink:href="#iconHeart"></use></svg>
+</button>
+<button class="js-collect js-collect-159299 btn-like btn-like--small btn-like--collect photo-item__info" data-photo-id="159299">
+<svg viewBox="0 0 30 30" class="icon-plus"><use xlink:href="#iconPlus"></use></svg>
+</button>
+</article>
+<article class="photo-item">
+<a class="js-photo-link" data-track-action="show" data-track-label="similar-photo" href="/photo/codes-coding-computer-programming-270366/">
+<img width="356" height="200" style="background:rgb(62,53,47)" class="photo-item__img" alt="Free stock photo of computer, screen, coding, programming" data-big-src="https://images.pexels.com/photos/270366/pexels-photo-270366.jpeg?w=1260&amp;h=750&amp;auto=compress&amp;cs=tinysrgb" data-large-src="https://images.pexels.com/photos/270366/pexels-photo-270366.jpeg?w=940&amp;h=650&amp;auto=compress&amp;cs=tinysrgb" data-pin-media="https://images.pexels.com/photos/270366/pexels-photo-270366.jpeg?w=800&amp;h=1200&amp;fit=crop&amp;auto=compress&amp;cs=tinysrgb" src="https://images.pexels.com/photos/270366/pexels-photo-270366.jpeg?h=350&amp;auto=compress&amp;cs=tinysrgb" />
+</a> <button class="js-like js-like-270366 btn-like btn-like--small photo-item__info" data-photo-id="270366">
+<svg viewBox="0 0 100 100" class="icon-heart"><use xlink:href="#iconHeart"></use></svg>
+</button>
+<button class="js-collect js-collect-270366 btn-like btn-like--small btn-like--collect photo-item__info" data-photo-id="270366">
+<svg viewBox="0 0 30 30" class="icon-plus"><use xlink:href="#iconPlus"></use></svg>
+</button>
+</article>
+<article class="photo-item">
+<a class="js-photo-link" data-track-action="show" data-track-label="similar-photo" href="/photo/code-coder-coding-computer-270404/">
+<img width="356" height="200" style="background:rgb(46,42,36)" class="photo-item__img" alt="Free stock photo of working, technology, computer, site" data-big-src="https://images.pexels.com/photos/270404/pexels-photo-270404.jpeg?w=1260&amp;h=750&amp;auto=compress&amp;cs=tinysrgb" data-large-src="https://images.pexels.com/photos/270404/pexels-photo-270404.jpeg?w=940&amp;h=650&amp;auto=compress&amp;cs=tinysrgb" data-pin-media="https://images.pexels.com/photos/270404/pexels-photo-270404.jpeg?w=800&amp;h=1200&amp;fit=crop&amp;auto=compress&amp;cs=tinysrgb" src="https://images.pexels.com/photos/270404/pexels-photo-270404.jpeg?h=350&amp;auto=compress&amp;cs=tinysrgb" />
+</a> <button class="js-like js-like-270404 btn-like btn-like--small photo-item__info" data-photo-id="270404">
+<svg viewBox="0 0 100 100" class="icon-heart"><use xlink:href="#iconHeart"></use></svg>
+</button>
+<button class="js-collect js-collect-270404 btn-like btn-like--small btn-like--collect photo-item__info" data-photo-id="270404">
+<svg viewBox="0 0 30 30" class="icon-plus"><use xlink:href="#iconPlus"></use></svg>
+</button>
+</article>
+<article class="photo-item">
+<a class="js-photo-link" data-track-action="show" data-track-label="similar-photo" href="/photo/application-blur-business-code-270408/">
+<img width="300" height="200" style="background:rgb(42,44,39)" class="photo-item__img" alt="Free stock photo of working, technology, blur, computer" data-big-src="https://images.pexels.com/photos/270408/pexels-photo-270408.jpeg?w=1260&amp;h=750&amp;auto=compress&amp;cs=tinysrgb" data-large-src="https://images.pexels.com/photos/270408/pexels-photo-270408.jpeg?w=940&amp;h=650&amp;auto=compress&amp;cs=tinysrgb" data-pin-media="https://images.pexels.com/photos/270408/pexels-photo-270408.jpeg?w=800&amp;h=1200&amp;fit=crop&amp;auto=compress&amp;cs=tinysrgb" src="https://images.pexels.com/photos/270408/pexels-photo-270408.jpeg?h=350&amp;auto=compress&amp;cs=tinysrgb" />
+</a> <button class="js-like js-like-270408 btn-like btn-like--small photo-item__info" data-photo-id="270408">
+<svg viewBox="0 0 100 100" class="icon-heart"><use xlink:href="#iconHeart"></use></svg>
+</button>
+<button class="js-collect js-collect-270408 btn-like btn-like--small btn-like--collect photo-item__info" data-photo-id="270408">
+<svg viewBox="0 0 30 30" class="icon-plus"><use xlink:href="#iconPlus"></use></svg>
+</button>
+</article>
+<article class="photo-item">
+<a class="js-photo-link" data-track-action="show" data-track-label="similar-photo" href="/photo/codes-coding-computer-programming-270488/">
+<img width="320" height="200" style="background:rgb(21,30,14)" class="photo-item__img" alt="Free stock photo of computer, screen, coding, programming" data-big-src="https://images.pexels.com/photos/270488/pexels-photo-270488.jpeg?w=1260&amp;h=750&amp;auto=compress&amp;cs=tinysrgb" data-large-src="https://images.pexels.com/photos/270488/pexels-photo-270488.jpeg?w=940&amp;h=650&amp;auto=compress&amp;cs=tinysrgb" data-pin-media="https://images.pexels.com/photos/270488/pexels-photo-270488.jpeg?w=800&amp;h=1200&amp;fit=crop&amp;auto=compress&amp;cs=tinysrgb" src="https://images.pexels.com/photos/270488/pexels-photo-270488.jpeg?h=350&amp;auto=compress&amp;cs=tinysrgb" />
+</a> <button class="js-like js-like-270488 btn-like btn-like--small photo-item__info" data-photo-id="270488">
+<svg viewBox="0 0 100 100" class="icon-heart"><use xlink:href="#iconHeart"></use></svg>
+</button>
+<button class="js-collect js-collect-270488 btn-like btn-like--small btn-like--collect photo-item__info" data-photo-id="270488">
+<svg viewBox="0 0 30 30" class="icon-plus"><use xlink:href="#iconPlus"></use></svg>
+</button>
+</article>
+<article class="photo-item">
+<a class="js-photo-link" data-track-action="show" data-track-label="similar-photo" href="/photo/codes-coding-computer-developing-270623/">
+<img width="355" height="200" style="background:rgb(35,37,39)" class="photo-item__img" alt="Free stock photo of computer, coding, programming, software" data-big-src="https://images.pexels.com/photos/270623/pexels-photo-270623.png?w=1260&amp;h=750&amp;auto=compress&amp;cs=tinysrgb" data-large-src="https://images.pexels.com/photos/270623/pexels-photo-270623.png?w=940&amp;h=650&amp;auto=compress&amp;cs=tinysrgb" data-pin-media="https://images.pexels.com/photos/270623/pexels-photo-270623.png?w=800&amp;h=1200&amp;fit=crop&amp;auto=compress&amp;cs=tinysrgb" src="https://images.pexels.com/photos/270623/pexels-photo-270623.png?h=350&amp;auto=compress&amp;cs=tinysrgb" />
+</a> <button class="js-like js-like-270623 btn-like btn-like--small photo-item__info" data-photo-id="270623">
+<svg viewBox="0 0 100 100" class="icon-heart"><use xlink:href="#iconHeart"></use></svg>
+</button>
+<button class="js-collect js-collect-270623 btn-like btn-like--small btn-like--collect photo-item__info" data-photo-id="270623">
+<svg viewBox="0 0 30 30" class="icon-plus"><use xlink:href="#iconPlus"></use></svg>
+</button>
+</article>
+<article class="photo-item">
+<a class="js-photo-link" data-track-action="show" data-track-label="similar-photo" href="/photo/business-code-coding-computer-270632/">
+<img width="300" height="200" style="background:rgb(42,41,40)" class="photo-item__img" alt="Free stock photo of internet, technology, computer, display" data-big-src="https://images.pexels.com/photos/270632/pexels-photo-270632.jpeg?w=1260&amp;h=750&amp;auto=compress&amp;cs=tinysrgb" data-large-src="https://images.pexels.com/photos/270632/pexels-photo-270632.jpeg?w=940&amp;h=650&amp;auto=compress&amp;cs=tinysrgb" data-pin-media="https://images.pexels.com/photos/270632/pexels-photo-270632.jpeg?w=800&amp;h=1200&amp;fit=crop&amp;auto=compress&amp;cs=tinysrgb" src="https://images.pexels.com/photos/270632/pexels-photo-270632.jpeg?h=350&amp;auto=compress&amp;cs=tinysrgb" />
+</a> <button class="js-like js-like-270632 btn-like btn-like--small photo-item__info" data-photo-id="270632">
+<svg viewBox="0 0 100 100" class="icon-heart"><use xlink:href="#iconHeart"></use></svg>
+</button>
+<button class="js-collect js-collect-270632 btn-like btn-like--small btn-like--collect photo-item__info" data-photo-id="270632">
+<svg viewBox="0 0 30 30" class="icon-plus"><use xlink:href="#iconPlus"></use></svg>
+</button>
+</article>
+<article class="photo-item">
+<a class="js-photo-link" title="Close-up of Computer Screen" data-track-action="show" data-track-label="similar-photo" href="/photo/close-up-of-computer-screen-325111/">
+<img width="300" height="200" style="background:rgb(134,135,138)" class="photo-item__img" alt="Close-up of Computer Screen" data-big-src="https://images.pexels.com/photos/325111/pexels-photo-325111.jpeg?w=1260&amp;h=750&amp;auto=compress&amp;cs=tinysrgb" data-large-src="https://images.pexels.com/photos/325111/pexels-photo-325111.jpeg?w=940&amp;h=650&amp;auto=compress&amp;cs=tinysrgb" data-pin-media="https://images.pexels.com/photos/325111/pexels-photo-325111.jpeg?w=800&amp;h=1200&amp;fit=crop&amp;auto=compress&amp;cs=tinysrgb" src="https://images.pexels.com/photos/325111/pexels-photo-325111.jpeg?h=350&amp;auto=compress&amp;cs=tinysrgb" />
+</a> <button class="js-like js-like-325111 btn-like btn-like--small photo-item__info" data-photo-id="325111">
+<svg viewBox="0 0 100 100" class="icon-heart"><use xlink:href="#iconHeart"></use></svg>
+</button>
+<button class="js-collect js-collect-325111 btn-like btn-like--small btn-like--collect photo-item__info" data-photo-id="325111">
+<svg viewBox="0 0 30 30" class="icon-plus"><use xlink:href="#iconPlus"></use></svg>
+</button>
+</article>
+<article class="photo-item">
+<a class="js-photo-link" data-track-action="show" data-track-label="similar-photo" href="/photo/business-codes-coding-communication-360591/">
+<img width="300" height="200" style="background:rgb(60,67,79)" class="photo-item__img" alt="Free stock photo of internet, technology, computer, display" data-big-src="https://images.pexels.com/photos/360591/pexels-photo-360591.jpeg?w=1260&amp;h=750&amp;auto=compress&amp;cs=tinysrgb" data-large-src="https://images.pexels.com/photos/360591/pexels-photo-360591.jpeg?w=940&amp;h=650&amp;auto=compress&amp;cs=tinysrgb" data-pin-media="https://images.pexels.com/photos/360591/pexels-photo-360591.jpeg?w=800&amp;h=1200&amp;fit=crop&amp;auto=compress&amp;cs=tinysrgb" src="https://images.pexels.com/photos/360591/pexels-photo-360591.jpeg?h=350&amp;auto=compress&amp;cs=tinysrgb" />
+</a> <button class="js-like js-like-360591 btn-like btn-like--small photo-item__info" data-photo-id="360591">
+<svg viewBox="0 0 100 100" class="icon-heart"><use xlink:href="#iconHeart"></use></svg>
+</button>
+<button class="js-collect js-collect-360591 btn-like btn-like--small btn-like--collect photo-item__info" data-photo-id="360591">
+<svg viewBox="0 0 30 30" class="icon-plus"><use xlink:href="#iconPlus"></use></svg>
+</button>
+</article>
+<article class="photo-item">
+<a class="js-photo-link" data-track-action="show" data-track-label="similar-photo" href="/photo/code-coding-computer-developer-574080/">
+<img width="301" height="200" style="background:rgb(118,100,89)" class="photo-item__img" alt="Free stock photo of person, hand, laptop, working" data-big-src="https://images.pexels.com/photos/574080/pexels-photo-574080.jpeg?w=1260&amp;h=750&amp;auto=compress&amp;cs=tinysrgb" data-large-src="https://images.pexels.com/photos/574080/pexels-photo-574080.jpeg?w=940&amp;h=650&amp;auto=compress&amp;cs=tinysrgb" data-pin-media="https://images.pexels.com/photos/574080/pexels-photo-574080.jpeg?w=800&amp;h=1200&amp;fit=crop&amp;auto=compress&amp;cs=tinysrgb" src="https://images.pexels.com/photos/574080/pexels-photo-574080.jpeg?h=350&amp;auto=compress&amp;cs=tinysrgb" />
+</a> <button class="js-like js-like-574080 btn-like btn-like--small photo-item__info" data-photo-id="574080">
+<svg viewBox="0 0 100 100" class="icon-heart"><use xlink:href="#iconHeart"></use></svg>
+</button>
+<button class="js-collect js-collect-574080 btn-like btn-like--small btn-like--collect photo-item__info" data-photo-id="574080">
+<svg viewBox="0 0 30 30" class="icon-plus"><use xlink:href="#iconPlus"></use></svg>
+</button>
+</article>
+</div>
+</div>
+<div class="box js-sponsored-photos js-sponsored-photos-small" data-url="/sponsored_photos/8/small/?photo_id=265110">
+</div>
+<div class="box">
+<h3 class="box__title">Tags</h3>
+<ul class="list-inline list-padding">
+<li>
+<a data-track-action="show" data-track-label="tag" class="btn-light" href="/search/business/">business</a>
+</li>
+<li>
+<a data-track-action="show" data-track-label="tag" class="btn-light" href="/search/coder/">coder</a>
+</li>
+<li>
+<a data-track-action="show" data-track-label="tag" class="btn-light" href="/search/coding/">coding</a>
+</li>
+<li>
+<a data-track-action="show" data-track-label="tag" class="btn-light" href="/search/computer/">computer</a>
+</li>
+<li>
+<a data-track-action="show" data-track-label="tag" class="btn-light" href="/search/contemporary/">contemporary</a>
+</li>
+<li>
+<a data-track-action="show" data-track-label="tag" class="btn-light" href="/search/desk/">desk</a>
+</li>
+<li>
+<a data-track-action="show" data-track-label="tag" class="btn-light" href="/search/hands/">hands</a>
+</li>
+<li>
+<a data-track-action="show" data-track-label="tag" class="btn-light" href="/search/indoors/">indoors</a>
+</li>
+<li>
+<a data-track-action="show" data-track-label="tag" class="btn-light" href="/search/internet/">internet</a>
+</li>
+<li>
+<a data-track-action="show" data-track-label="tag" class="btn-light" href="/search/laptop/">laptop</a>
+</li>
+<li>
+<a data-track-action="show" data-track-label="tag" class="btn-light" href="/search/leisure/">leisure</a>
+</li>
+<li>
+<a data-track-action="show" data-track-label="tag" class="btn-light" href="/search/macbook/">macbook</a>
+</li>
+<li>
+<a data-track-action="show" data-track-label="tag" class="btn-light" href="/search/office/">office</a>
+</li>
+<li>
+<a data-track-action="show" data-track-label="tag" class="btn-light" href="/search/person/">person</a>
+</li>
+<li>
+<a data-track-action="show" data-track-label="tag" class="btn-light" href="/search/programmer/">programmer</a>
+</li>
+<li>
+<a data-track-action="show" data-track-label="tag" class="btn-light" href="/search/programming/">programming</a>
+</li>
+<li>
+<a data-track-action="show" data-track-label="tag" class="btn-light" href="/search/screen/">screen</a>
+</li>
+<li>
+<a data-track-action="show" data-track-label="tag" class="btn-light" href="/search/technology/">technology</a>
+</li>
+<li>
+<a data-track-action="show" data-track-label="tag" class="btn-light" href="/search/typing/">typing</a>
+</li>
+<li>
+<a data-track-action="show" data-track-label="tag" class="btn-light" href="/search/watch/">watch</a>
+</li>
+<li>
+<a data-track-action="show" data-track-label="tag" class="btn-light" href="/search/wireless/">wireless</a>
+</li>
+<li>
+ <a data-track-action="show" data-track-label="tag" class="btn-light" href="/search/work/">work</a>
+</li>
+<li>
+<a data-track-action="show" data-track-label="tag" class="btn-light" href="/search/working/">working</a>
+</li>
+</ul>
+</div>
+<section class="box box--highlight partner-box js-buysellads" id="photo-partner-box">
+</section>
+<section class="box">
+<h3 class="box__title">Details</h3>
+<div class="icon-list">
+<div class="icon-list__icon">
+<i class="icon-expand"></i>
+</div><div class="icon-list__content">
+<div class="icon-list__title">3950 x 3034 pixels</div>
+<div class="icon-list__infos">
+<span>1.4 MB</span>
+<span>Aspect Ratio: 1975:1517</span>
+</div>
+</div>
+</div>
+<div class="icon-list">
+<div class="icon-list__icon">
+<i class="icon-tint"></i>
+</div><div class="icon-list__content">
+<a href="/search/color:%20%23462e25/" class="photo-colors__color" title="#462e25" data-track-action="show" data-track-label="color" style="background:#462e25;">
+</a>
+<a href="/search/color:%20%23c2c0aa/" class="photo-colors__color" title="#c2c0aa" data-track-action="show" data-track-label="color" style="background:#c2c0aa;">
+</a>
+</div>
+</div>
+<a rel="license" about="https://static.pexels.com/photos/265110/pexels-photo-265110.jpeg" href="http://creativecommons.org/licenses/publicdomain/" class="sr-only">CC0 / Public Domain</a>
+<a rel="license" about="https://images.pexels.com/photos/265110/pexels-photo-265110.jpeg?w=940&amp;h=650&amp;auto=compress&amp;cs=tinysrgb" href="http://creativecommons.org/licenses/publicdomain/" class="sr-only">CC0 / Public Domain</a>
+</section>
+</div>
+</div>
+</section>
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_blank" class="hidden js-paypal-form">
+<input type="hidden" name="cmd" value="_donations">
+<input type="hidden" name="return" value="https://www.pexels.com/photo/business-coder-coding-computer-265110/modal">
+<input type="hidden" name="currency_code" value="USD">
+<input type="hidden" name="lc" value="US">
+<input type="hidden" name="item_name" value="David McBee - Pexels">
+<input type="hidden" name="business" value="david@davidmcbee.com">
+<input type="submit">
+</form>
+</div>
+<footer class="footer">
+<div class="l-container-center">
+<div class="l-row">
+<div class="l-lg-2 l-sm-6 footer__list">
+<h5>Services</h5>
+<ul class="list-unstyled list-padding">
+<li><a href="https://videos.pexels.com/" target="_blank" data-track-action="footer" data-track-label="videos">Pexels Videos</a></li>
+<li><a href="/newsletter/" data-track-action="footer" data-track-label="newsletter">Newsletter</a></li>
+<li><a href="/blog/" target="_blank" data-track-action="footer" data-track-label="blog">Blog</a></li>
+<li><a href="http://www.designbreak.io/" target="_blank" data-track-action="footer" data-track-label="designbreak">Designbreak</a></li>
+<li><a href="/api/" data-track-action="footer" data-track-label="api">API</a></li>
+<li><a href="/faq/" data-track-action="footer" data-track-label="faq" rel="nofollow">FAQ</a></li>
+</ul>
+</div>
+<div class="l-lg-2 l-sm-6 footer__list">
+<h5>More</h5>
+<ul class="list-unstyled list-padding">
+<li><a href="/popular-photos/" data-track-action="footer" data-track-label="popular">Popular photos</a></li>
+<li><a href="/search/HD%20wallpapers/" data-track-action="footer" data-track-label="wallpapers">High definition wallpapers</a></li>
+<li><a href="/photo-license/" data-track-action="footer" data-track-label="license" title="Creative Commons Images License">Photo license</a></li>
+</ul>
+</div>
+<div class="l-lg-2 footer__list footer__list--small hidden-sm">
+<h5>Photos</h5>
+<ul class="list-unstyled list-padding">
+<li>
+<a href="/search/nature/" data-track-action="footer" data-track-label="nature">Nature images</a>,
+<a href="/search/nature%20wallpaper/" title="Nature wallpaper" data-track-action="footer" data-track-label="nature-wallpaper">wallpapers</a>
+</li>
+<li>
+<a href="/search/beach/" data-track-action="footer" data-track-label="beach">Beach pictures</a>
+</li>
+<li>
+<a href="/search/flowers/" data-track-action="footer" data-track-label="flower">Flower images</a>
+</li>
+<li>
+<a href="/search/black-and-white/" data-track-action="footer" data-track-label="bw">Black and white photography</a>
+</li>
+<li>
+<a href="/search/dog/" data-track-action="footer" data-track-label="dog">Dog images</a>
+</li>
+<li>
+<a href="/search/city/" data-track-action="footer" data-track-label="city">City pictures</a>,
+<a href="/search/new%20york%20city%20wallpaper/" data-track-action="footer" data-track-label="new-york-city-wallpaper" title="New York City wallpaper">NYC wallpaper</a>
+</li>
+<li>
+<a href="/search/desert/" data-track-action="footer" data-track-label="desert">Desert pictures</a>
+</li>
+<li>
+<a href="/search/black%20wallpaper/" data-track-action="footer" data-track-label="black-wallpaper">Black wallpaper</a>
+</li>
+<li>
+<a href="/royalty-free-images/" data-track-action="footer" data-track-label="royalty-free-images">Royalty free images</a>
+</li>
+</ul>
+</div>
+<div class="l-lg-2 footer__list footer__list--small hidden-sm">
+<ul class="list-unstyled list-padding">
+<li>
+<a href="/search/christmas/" data-track-action="footer" data-track-label="christmas">Christmas images</a>
+</li>
+<li>
+<a href="/search/car/" data-track-action="footer" data-track-label="car">Car images</a>,
+<a href="/search/car%20wallpapers/" data-track-action="footer" data-track-label="car-wallpaper">wallpapers</a>
+</li>
+<li>
+<a href="/search/people/" data-track-action="footer" data-track-label="people">Pictures of people</a>
+</li>
+<li>
+<a href="/search/business/" data-track-action="footer" data-track-label="business">Business images</a>
+</li>
+<li>
+<a href="/search/technology/" data-track-action="footer" data-track-label="technology">Technology images</a>
+</li>
+<li>
+<a href="/search/landscape/" data-track-action="footer" data-track-label="landscape">Landscape pictures</a>
+</li>
+<li>
+<a href="/search/winter/" data-track-action="footer" data-track-label="winter">Winter pictures</a>
+</li>
+<li>
+<a href="/search/sunset/" data-track-action="footer" data-track-label="winter">Sunset pictures</a>
+</li>
+<li>
+<a href="/search/desktop%20wallpaper/" data-track-action="footer" data-track-label="desktop-wallpaper">Desktop wallpaper</a>,
+<a href="/search/desktop%20backgrounds/" data-track-action="footer" data-track-label="desktop-backgrounds">backgrounds</a>
+</li>
+<li>
+<a href="/public-domain-images/" data-track-action="footer" data-track-label="public-domain-images">Public domain images</a>
+</li>
+</ul>
+</div>
+<div class="l-lg-4 l-sm-12 footer-more">
+<div class="footer-more__item social-list">
+<p class="social-list__label pull-left">Follow us:</p>
+<ul class="list-inline pull-left">
+<li>
+<a href="https://www.facebook.com/pexels" class="social-list__item" rel="publisher nofollow" target="_blank" data-track-action="footer" data-track-label="facebook">
+<i class="icon-facebook"></i>
+</a>
+</li>
+<li>
+<a href="https://twitter.com/PexelsPhotos" class="social-list__item" rel="publisher nofollow" target="_blank" data-track-action="footer" data-track-label="twitter">
+<i class="icon-twitter"></i>
+</a>
+</li>
+<li>
+<a href="https://plus.google.com/+PexelsPhotos" class="social-list__item" rel="publisher nofollow" target="_blank" data-track-action="footer" data-track-label="gplus">
+<i class="icon-gplus"></i>
+</a>
+</li>
+<li>
+<a href="https://www.pinterest.com/pexels" class="social-list__item" rel="publisher nofollow" target="_blank" data-track-action="footer" data-track-label="pinterest">
+<i class="icon-pinterest"></i>
+</a>
+</li>
+<li>
+<a href="https://instagram.com/pexelsphotos/" class="social-list__item" rel="publisher nofollow" target="_blank" data-track-action="footer" data-track-label="instagram">
+<i class="icon-instagram"></i>
+</a>
+</li>
+</ul>
+</div>
+<p class="footer-more__item"></p>
+</div>
+</div>
+</div>
+</footer>
+<svg class="hidden">
+<defs>
+<path id="iconHeart" d="M84.417 38.466c0 5.63-2.407 10.7-6.248 14.233L50 80.866 21.832 52.7c-3.842-3.535-6.25-8.604-6.25-14.234 0-10.677 8.656-19.333 19.334-19.333 5.492 0 10.45 2.29 13.97 5.968.39.41.763.834 1.114 1.274.354-.44.725-.865 1.115-1.273 3.52-3.676 8.478-5.967 13.97-5.967 10.677 0 19.332 8.656 19.332 19.333z" />
+<path id="iconPlus" d="M15.5 6h-5.5v-5.5c0-0.276-0.224-0.5-0.5-0.5h-3c-0.276 0-0.5 0.224-0.5 0.5v5.5h-5.5c-0.276 0-0.5 0.224-0.5 0.5v3c0 0.276 0.224 0.5 0.5 0.5h5.5v5.5c0 0.276 0.224 0.5 0.5 0.5h3c0.276 0 0.5-0.224 0.5-0.5v-5.5h5.5c0.276 0 0.5-0.224 0.5-0.5v-3c0-0.276-0.224-0.5-0.5-0.5z" />
+<path id="iconCamera" d="M4.75 9.5c0 1.795 1.455 3.25 3.25 3.25s3.25-1.455 3.25-3.25-1.455-3.25-3.25-3.25-3.25 1.455-3.25 3.25zM15 4h-3.5c-0.25-1-0.5-2-1.5-2h-4c-1 0-1.25 1-1.5 2h-3.5c-0.55 0-1 0.45-1 1v9c0 0.55 0.45 1 1 1h14c0.55 0 1-0.45 1-1v-9c0-0.55-0.45-1-1-1zM8 13.938c-2.451 0-4.438-1.987-4.438-4.438s1.987-4.438 4.438-4.438c2.451 0 4.438 1.987 4.438 4.438s-1.987 4.438-4.438 4.438zM15 7h-2v-1h2v1z" />
+<path id="iconCheck" d="M9 21.035l-9-8.638 2.791-2.87 6.156 5.874 12.21-12.436 2.843 2.817z" />
+<g id="iconCirclePlus">
+<path d="M8 0c-4.418 0-8 3.582-8 8s3.582 8 8 8 8-3.582 8-8-3.582-8-8-8zM8 14c-3.314 0-6-2.686-6-6s2.686-6 6-6c3.314 0 6 2.686 6 6s-2.686 6-6 6z" />
+<path d="M 11.816 6.819 L 9.029 6.819 L 9.029 4.033 C 9.029 3.894 8.916 3.78 8.775 3.78 L 7.256 3.78 C 7.116 3.78 7.002 3.894 7.002 4.033 L 7.002 6.819 L 4.216 6.819 C 4.077 6.819 3.963 6.933 3.963 7.074 L 3.963 8.593 C 3.963 8.733 4.077 8.846 4.216 8.846 L 7.002 8.846 L 7.002 11.633 C 7.002 11.772 7.116 11.886 7.256 11.886 L 8.775 11.886 C 8.916 11.886 9.029 11.772 9.029 11.633 L 9.029 8.846 L 11.816 8.846 C 11.955 8.846 12.069 8.733 12.069 8.593 L 12.069 7.074 C 12.069 6.933 11.955 6.819 11.816 6.819 Z" />
+</g>
+</defs>
+</svg>
+<div class="modal js-sign-up-modal" data-sign-up-path="/sign-up-modal/">
+<div class="modal__content">
+<div class="spinner">
+<div></div><div></div><div></div><div></div>
+</div>
+<div class="ie-fallback">shared.loading.loading…</div>
+</div>
+</div>
+<div class="modal js-collection-modal">
+<div class="modal__content">
+<div class="spinner">
+<div></div><div></div><div></div><div></div>
+</div>
+<div class="ie-fallback">shared.loading.loading…</div>
+</div>
+</div>
+<div class="modal modal--photo js-photo-modal"><div class="modal__content"></div></div>
+<div class="switch-locale">
+Choose your language:
+<a rel="nofollow" hreflang="en" class="switch-locale__option js-switch-locale-btn" data-close=true>
+<img width="36" height="26" class="switch-locale__flag" src="/assets/flags/en-9ac49f52fbe3cc86ef500da8d7dfac4468c0e98419808425a9cdc1af7714cee1.png" alt="En" />
+<span>English</span>
+</a>
+<a rel="nofollow" hreflang="de" class="switch-locale__option js-switch-locale-btn" href=https://www.pexels.com/de/foto/arbeit-arbeiten-bildschirm-buro-265110/>
+<img width="36" height="26" class="switch-locale__flag" src="/assets/flags/de-be3be524c1fce804f942bf1c15b700fa6c5cdec93e636b907d58e65907ab911f.png" alt="De" />
+<span>Deutsch</span>
+</a>
+<a data-close="true" class="switch-locale__close js-switch-locale-btn">✕</a>
+</div>
+<script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+    ga('create', 'UA-50832266-1', 'auto');
+    ga('set', 'dimension2', UTIL.isSignedIn());
+    ga('set', 'anonymizeIp', true);
+      ga('send', 'pageview');
+
+  </script>
+<script type="application/ld+json">{"@context":"http://schema.org","@type":"WebSite","url":"https://www.pexels.com/","potentialAction":{"@type":"SearchAction","target":"https://www.pexels.com/search/{search_term_string}/","query-input":"required name=search_term_string"}}</script>
+<script type="application/ld+json">{"@context":"http://schema.org","@type":"Organization","name":"Pexels","url":"https://www.pexels.com","logo":"/assets/pexels-logo-7e4af4630e66b6b786567041874586aeb1b5217589035c70a0def15aacd0f11a.png","sameAs":["https://www.facebook.com/pexels","https://twitter.com/PexelsPhotos","https://plus.google.com/+PexelsPhotos","https://www.pinterest.com/pexels/", "https://instagram.com/pexelsphotos/"]}</script>
+</body>
+</html>

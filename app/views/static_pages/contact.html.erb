@@ -1,0 +1,58 @@
+<% provide(:title, "Contact") %>
+  
+<h1>Contact</h1>
+<p>
+  Contact the Ruby on Rails Tutorial about the sample app at the
+  <a href="http://www.railstutorial.org/contact">contact page</a>.
+</p>
+
+<form>
+    <label for="firstName" class="first-name">First Name</label>
+    <input id="firstName" type="text">
+ 
+    <label for="lastName" class="last-name">Last Name</label>
+    <input id="lastName" type="text">
+
+    <label for="phoneNumber" class="phone-number">Phone Number</label>
+    <input id="phoneNumber" type="text">
+
+    <label for="homeAdress" class="home-adress">Home Adress</label>
+    <input id="homeAdress" type="text">
+ 
+    <!-- more inputs -->
+</form>
+
+
+
+<form {
+  display: grid;
+  grid-template-columns; 1fr 1fr
+
+    overflow: hidden;
+}
+
+form{
+  display: grid;
+  grid-template-columns:1fr 2fr
+}
+ 
+label {
+  display:grid;
+  grid-template-columns: 1fr 2fr
+    float: left;
+    width: 200px;
+    padding-right: 24px;
+}
+ 
+input {
+    float: left;
+    width: calc(100% - 200px);
+}
+ 
+button {
+    float: right;
+    width: calc(100% - 200px);
+}%>
+
+
+
