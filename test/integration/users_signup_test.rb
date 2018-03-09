@@ -6,8 +6,11 @@ test "invalid signup information" do
   assert_no_difference 'User.count' do
     post users_path, params: { user: { name: "", email: "user@invalid", password: "foo", password_confirmation: "bar"}}
   end
-  assert_template 'users/new'
-  assert_select 'div#<CSS id for error explanation>'
-  assert_select 'div.<CSS class for field with error>'
+  follow_redirect!
+  assert_template 'users/show'
+  assert_not flash.empty?
+
+  #assert_select 'div#<CSS id for error explanation>'
+  #assert_select 'div.<CSS class for field with error>'
 end
 end
