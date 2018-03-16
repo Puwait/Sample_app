@@ -51,10 +51,10 @@ end
 
 test "log in with remembering" do
   log_in_as(@user, remember_me: '1')
-  assert_not_empty cookies['remember_token']
+   assert_equal cookies['remember_token'], assigns(:user).remember_token
 end
 
-test "login without remembering" do
+test " login without remembering" do
   #log in to set the cookie
   log_in_as(@user, remember_me: '1')
   #log in again and verify that the cookie is deleted
